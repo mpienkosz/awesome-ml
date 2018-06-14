@@ -29,6 +29,8 @@ List of sources for Machine Learning, NLP and software engineering for ML, that 
 
 * [Deep AI Playbook](https://gumroad.com/l/WRbUs): Strategy for Disruptive Artificial Intelligence
 * [Python Cookbook](https://www.safaribooksonline.com/library/view/python-cookbook/0596001673/) by O'Reilly
+* [Mathematics for Machine Learning](https://mml-book.github.io/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=NLP%20News)
+
 
 ### 6. Blogs
 
