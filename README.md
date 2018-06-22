@@ -20,6 +20,7 @@ List of sources for Machine Learning, NLP and software engineering for ML, that 
 * [TensorFlow Model Deployment](https://github.com/bshao001/TF-Model-Deploy-Tutorial) tutorial
 * [Tensorflow nmt](https://github.com/tensorflow/nmt): Neural Machine Translation (seq2seq) Tutorial
 * [Free Deep RL](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) course/blog by Thomas Simonini
+* [Hyperparameter optimization for keras](https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53) by Mikko on Medium 
 
 ### 4. Javascript
 
@@ -35,9 +36,9 @@ List of sources for Machine Learning, NLP and software engineering for ML, that 
 
 ### 6. Blogs
 
+* [Sebastian Ruder](http://ruder.io/#open)
 * [Kumar Shridhar](https://medium.com/@shridhar743) (Botsupply)
 * [Rahul Kumar](https://medium.com/@hellorahulk) (Botsupply)
-* [Sebastian Ruder](http://ruder.io/#open)
 
 ### 7. Datasets
 
