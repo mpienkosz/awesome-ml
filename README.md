@@ -8,6 +8,7 @@ List of sources for Machine Learning, NLP and software engineering for ML, that 
 * [DeepPavlov](https://github.com/deepmipt/DeepPavlov): Open-source conversational AI library built on TensorFlow and Keras
 * [Advisor](https://github.com/tobegit3hub/advisor): hyper parameters tuning system for black box optimization, opensource implementation of Google Vizier
 * [Michelangelo](https://eng.uber.com/michelangelo/): Uber's machine learning platform(description)
+* [NLP Architect](https://github.com/NervanaSystems/nlp-architect): Intel's AI Lab (Nirvana) Python library for exploring the state-of-the-art deep learning topologies for NLP
 
 ### 2. Best Practices
 * [BOBP](https://gist.github.com/sloria/7001839): The Best of the Best Practices (BOBP) Guide for Python
