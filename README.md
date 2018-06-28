@@ -34,17 +34,20 @@ List of sources for Machine Learning, NLP and software engineering for ML, that 
 * [Mathematics for Machine Learning](https://mml-book.github.io/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=NLP%20News) to be published by Cambridge University Press
 * [Deep Learning Book](http://www.deeplearningbook.org) by Bengio, Goodfellow and Courville
 
+### 6. Online courses
+* [Devops for Data Science](https://www.linkedin.com/learning/devops-for-data-scientists/welcome) on LinkedIn learning
 
-### 6. Blogs
+
+### 7. Blogs
 
 * [Sebastian Ruder](http://ruder.io/#open)
 * [Kumar Shridhar](https://medium.com/@shridhar743) (Botsupply)
 * [Rahul Kumar](https://medium.com/@hellorahulk) (Botsupply)
 
-### 7. Datasets
+### 8. Datasets
 
 * [nlp-datasets](https://github.com/niderhoff/nlp-datasets) - Alphabetical list of free NLP data
 
-### 8. Other resource lists
+### 9. Other resource lists
 
 * [awesome-nlp](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing (NLP) 
