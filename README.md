@@ -1,6 +1,6 @@
 # Awesome ML
 
-A bit chaotic list of sources for Machine Learning, NLP and software engineering for ML, that I come back to or that simply caught my attention ;)
+A bit chaotic list of sources for Machine Learning, NLP and software engineering for ML, that I come back to. Or the ones that simply caught my attention :)
 
 ### 1. Machine Learning frameworks
 * [Lore](https://github.com/instacart/lore): A python framework to make machine learning approachable for Engineers and maintainable for Data Scientists
@@ -9,6 +9,7 @@ A bit chaotic list of sources for Machine Learning, NLP and software engineering
 * [Advisor](https://github.com/tobegit3hub/advisor): hyper parameters tuning system for black box optimization, opensource implementation of Google Vizier
 * [Michelangelo](https://eng.uber.com/michelangelo/): Uber's machine learning platform(description)
 * [NLP Architect](https://github.com/NervanaSystems/nlp-architect): Intel's AI Lab (Nirvana) Python library for exploring the state-of-the-art deep learning topologies for NLP
+* [MetaCar](https://www.metacar-project.com/): A reinforcement learning environment for self-driving cars in the browser
 
 ### 2. Best Practices
 * [BOBP](https://gist.github.com/sloria/7001839): The Best of the Best Practices (BOBP) Guide for Python
