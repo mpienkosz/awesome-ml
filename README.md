@@ -1,6 +1,6 @@
 # Awesome ML
 
-A casual list of sources for Machine Learning, NLP and software engineering for ML, that I come back to. Or the ones that simply caught my attention :)
+A casual list of sources for Machine Learning, NLP and software engineering for ML, that I come back to or that simply caught my attention :)
 
 ### 1. Machine Learning frameworks
 * [Lore](https://github.com/instacart/lore): A python framework to make machine learning approachable for Engineers and maintainable for Data Scientists
