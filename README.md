@@ -22,33 +22,38 @@ A casual list of sources for Machine Learning, NLP and software engineering for 
 * [TensorFlow Model Deployment](https://github.com/bshao001/TF-Model-Deploy-Tutorial) tutorial
 * [Tensorflow nmt](https://github.com/tensorflow/nmt): Neural Machine Translation (seq2seq) Tutorial
 * [Free Deep RL](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) course/blog by Thomas Simonini
-* [Hyperparameter optimization for keras](https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53) with [talos](https://github.com/autonomio/talos) by Mikko on Medium 
+* [Hyperparameter optimization for keras](https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53) 
+with [talos](https://github.com/autonomio/talos) by Mikko on Medium 
 
-### 4. Javascript
+### 4.Libraries
+ * [easy-tf-log](https://github.com/mrahtz/easy-tf-log) Simplifies logging in Tensorflow/Tensorgboard
+
+
+### 5.Javascript
 
 * [vue.js](https://vuejs.org/): A progressive Javascript playbook
 
-### 5. Books
+### 6.Books
 
 * [Deep AI Playbook](https://gumroad.com/l/WRbUs): Strategy for Disruptive Artificial Intelligence
 * [Python Cookbook](https://www.safaribooksonline.com/library/view/python-cookbook/0596001673/) by O'Reilly
 * [Mathematics for Machine Learning](https://mml-book.github.io/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=NLP%20News) to be published by Cambridge University Press
 * [Deep Learning Book](http://www.deeplearningbook.org) by Bengio, Goodfellow and Courville
 
-### 6. Online courses
+### 7 Online courses
 * [Devops for Data Science](https://www.linkedin.com/learning/devops-for-data-scientists/welcome) on LinkedIn learning
 
 
-### 7. Blogs
+### 8 Blogs
 
 * [Sebastian Ruder](http://ruder.io/#open)
 * [Kumar Shridhar](https://medium.com/@shridhar743) (Botsupply)
 * [Rahul Kumar](https://medium.com/@hellorahulk) (Botsupply)
 
-### 8. Datasets
+### 9 Datasets
 
 * [nlp-datasets](https://github.com/niderhoff/nlp-datasets) - Alphabetical list of free NLP data
 
-### 9. Other resource lists
+### 10. Other resource lists
 
 * [awesome-nlp](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing (NLP) 
