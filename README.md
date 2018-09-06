@@ -15,6 +15,7 @@ A casual list of sources for Machine Learning, NLP and software engineering for 
 * [BOBP](https://gist.github.com/sloria/7001839): The Best of the Best Practices (BOBP) Guide for Python
 * [Real Python](https://realpython.com/): Learn Python by example
 * [Rules of Machine Learning](https://developers.google.com/machine-learning/rules-of-ml/): The Best Practices for ML Engineering by Martin Zinkevich from Google
+* [Text classification Guide](https://developers.google.com/machine-learning/guides/text-classification/) by Google
 * [Refactoring GURU](https://refactoring.guru/): Refactoring, Design Patterns, etc.
 
 ### 3. Tutorials
@@ -23,7 +24,7 @@ A casual list of sources for Machine Learning, NLP and software engineering for 
 * [Tensorflow nmt](https://github.com/tensorflow/nmt): Neural Machine Translation (seq2seq) Tutorial
 * [Free Deep RL](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) course/blog by Thomas Simonini
 * [Hyperparameter optimization for keras](https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53) 
-with [talos](https://github.com/autonomio/talos) by Mikko on Medium 
+with [talos](https://github.com/autonomio/talos) by Mikko on Medium
 
 ### 4.Libraries
  * [easy-tf-log](https://github.com/mrahtz/easy-tf-log) Simplifies logging in Tensorflow/Tensorgboard
