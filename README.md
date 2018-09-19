@@ -22,12 +22,12 @@ A casual list of sources for Machine Learning, NLP and software engineering for 
 
 * [TensorFlow Model Deployment](https://github.com/bshao001/TF-Model-Deploy-Tutorial) tutorial
 * [Tensorflow nmt](https://github.com/tensorflow/nmt): Neural Machine Translation (seq2seq) Tutorial
-* [Free Deep RL](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) course/blog by Thomas Simonini
 * [Hyperparameter optimization for keras](https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53) 
 with [talos](https://github.com/autonomio/talos) by Mikko on Medium
 
 ### 4.Libraries
  * [easy-tf-log](https://github.com/mrahtz/easy-tf-log) Simplifies logging in Tensorflow/Tensorgboard
+ * [Tune](https://ray.readthedocs.io/en/latest/tune.html) Scalable framework for hyperparameter search with a focus on deep learning
 
 
 ### 5.Javascript
@@ -43,7 +43,8 @@ with [talos](https://github.com/autonomio/talos) by Mikko on Medium
 
 ### 7 Online courses
 * [Devops for Data Science](https://www.linkedin.com/learning/devops-for-data-scientists/welcome) on LinkedIn learning
-
+* [Free Deep RL](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) course/blog by Thomas Simonini
+* [Deep Learning course](http://cs230.stanford.edu/) from Stanford, with Andrew Ng! ;)
 
 ### 8 Blogs
 
