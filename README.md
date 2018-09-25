@@ -10,6 +10,7 @@ A casual list of sources for Machine Learning, NLP and software engineering for 
 * [Michelangelo](https://eng.uber.com/michelangelo/): Uber's machine learning platform(description)
 * [NLP Architect](https://github.com/NervanaSystems/nlp-architect): Intel's AI Lab (Nirvana) Python library for exploring the state-of-the-art deep learning topologies for NLP
 * [MetaCar](https://www.metacar-project.com/): A reinforcement learning environment for self-driving cars in the browser
+* [Kubeflow](https://github.com/kubeflow/kubeflow) and [Seldon-core](https://github.com/SeldonIO/seldon-core) - Machine Learning Toolkits for Kubernetes
 
 ### 2. Best Practices
 * [BOBP](https://gist.github.com/sloria/7001839): The Best of the Best Practices (BOBP) Guide for Python
