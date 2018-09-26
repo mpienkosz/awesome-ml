@@ -18,6 +18,7 @@ A casual list of sources for Machine Learning, NLP and software engineering for 
 * [Rules of Machine Learning](https://developers.google.com/machine-learning/rules-of-ml/): The Best Practices for ML Engineering by Martin Zinkevich from Google
 * [Text classification Guide](https://developers.google.com/machine-learning/guides/text-classification/) by Google
 * [Refactoring GURU](https://refactoring.guru/): Refactoring, Design Patterns, etc.
+* [Python Anti-patterns](https://docs.quantifiedcode.com/python-anti-patterns/correctness/index.html)
 
 ### 3. Tutorials
 
