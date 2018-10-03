@@ -27,6 +27,7 @@ A casual list of sources for Machine Learning, NLP and software engineering for 
 * [Hyperparameter optimization for keras](https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53) 
 with [talos](https://github.com/autonomio/talos) by Mikko on Medium
 * [How to write simple Spelling Corrector](https://norvig.com/spell-correct.html) from Peter Norvig
+* [Kubernetes-GPU-Guide](https://github.com/Langhalsdino/Kubernetes-GPU-Guide) - how to set GPU-enabled cluster on multiple GPU machines
 
 ### 4.Libraries
  * [easy-tf-log](https://github.com/mrahtz/easy-tf-log) Simplifies logging in Tensorflow/Tensorgboard
