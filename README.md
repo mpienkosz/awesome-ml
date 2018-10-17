@@ -17,6 +17,7 @@ A casual list of sources for Machine Learning, NLP and software engineering for 
 * [Real Python](https://realpython.com/): Learn Python by example
 * [Rules of Machine Learning](https://developers.google.com/machine-learning/rules-of-ml/): The Best Practices for ML Engineering by Martin Zinkevich from Google
 * [Text classification Guide](https://developers.google.com/machine-learning/guides/text-classification/) by Google
+* [Good practices in Modern Tensorflow for NLP](nbviewer.jupyter.org/github/roamanalytics/roamresearch/blob/master/BlogPosts/Modern_TensorFlow/modern-tensorflow.ipynb) 
 * [Refactoring GURU](https://refactoring.guru/): Refactoring, Design Patterns, etc.
 * [Python Anti-patterns](https://docs.quantifiedcode.com/python-anti-patterns/correctness/index.html)
 
@@ -30,7 +31,7 @@ with [talos](https://github.com/autonomio/talos) by Mikko on Medium
 * [Kubernetes-GPU-Guide](https://github.com/Langhalsdino/Kubernetes-GPU-Guide) - how to set GPU-enabled cluster on multiple GPU machines
 
 ### 4.Libraries
- * [easy-tf-log](https://github.com/mrahtz/easy-tf-log) Simplifies logging in Tensorflow/Tensorgboard
+ * [easy-tf-log](https://github.com/mrahtz/easy-tf-log) Simplifies logging in Tensorflow/Tensorboard
  * [Tune](https://ray.readthedocs.io/en/latest/tune.html) Scalable framework for hyperparameter search with a focus on deep learning
 
 
@@ -58,7 +59,6 @@ with [talos](https://github.com/autonomio/talos) by Mikko on Medium
 
 * [Sebastian Ruder](http://ruder.io/#open)
 * [Kumar Shridhar](https://medium.com/@shridhar743) (Botsupply)
-* [Rahul Kumar](https://medium.com/@hellorahulk) (Botsupply)
 
 ### 9 Datasets
 
