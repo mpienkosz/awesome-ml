@@ -20,6 +20,7 @@ A casual list of sources for Machine Learning, NLP and software engineering for 
 * [Good practices in Modern Tensorflow for NLP](nbviewer.jupyter.org/github/roamanalytics/roamresearch/blob/master/BlogPosts/Modern_TensorFlow/modern-tensorflow.ipynb) 
 * [Refactoring GURU](https://refactoring.guru/): Refactoring, Design Patterns, etc.
 * [Python Anti-patterns](https://docs.quantifiedcode.com/python-anti-patterns/correctness/index.html)
+* [Good logging practice in Python](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/): tips on using standard logging module
 
 ### 3. Tutorials
 
