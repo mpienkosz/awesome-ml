@@ -7,10 +7,13 @@ A casual list of sources for Machine Learning, NLP and software engineering for 
 * [LabNotebook](https://github.com/henripal/labnotebook): A simple experiment manager for deep learning experiments
 * [DeepPavlov](https://github.com/deepmipt/DeepPavlov): Open-source conversational AI library built on TensorFlow and Keras
 * [Advisor](https://github.com/tobegit3hub/advisor): hyper parameters tuning system for black box optimization, opensource implementation of Google Vizier
-* [Michelangelo](https://eng.uber.com/michelangelo/): Uber's machine learning platform(description)
+* [Michelangelo](https://eng.uber.com/michelangelo/) and [PyML](https://eng.uber.com/michelangelo-pyml/): Uber's machine learning platforms
 * [NLP Architect](https://github.com/NervanaSystems/nlp-architect): Intel's AI Lab (Nirvana) Python library for exploring the state-of-the-art deep learning topologies for NLP
 * [MetaCar](https://www.metacar-project.com/): A reinforcement learning environment for self-driving cars in the browser
 * [Kubeflow](https://github.com/kubeflow/kubeflow) and [Seldon-core](https://github.com/SeldonIO/seldon-core) - Machine Learning Toolkits for Kubernetes
+* [MlFlow](https://github.com/mlflow/mlflow/) An open source platform for the machine learning lifecycle (focused on Model serving and management)
+* [Bighead](https://databricks.com/session/bighead-airbnbs-end-to-end-machine-learning-platform) Airbnb’s End-to-End Machine Learning Platform
+* [Clipper](http://clipper.ai/) ML-workflow platform, currently focused on low-latency prediction serving [video here](https://vimeo.com/274802895)
 
 ### 2. Best Practices
 * [BOBP](https://gist.github.com/sloria/7001839): The Best of the Best Practices (BOBP) Guide for Python
@@ -21,6 +24,7 @@ A casual list of sources for Machine Learning, NLP and software engineering for 
 * [Refactoring GURU](https://refactoring.guru/): Refactoring, Design Patterns, etc.
 * [Python Anti-patterns](https://docs.quantifiedcode.com/python-anti-patterns/correctness/index.html)
 * [Good logging practice in Python](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/): tips on using standard logging module
+* [Scaling Machine Learning at Uber](https://eng.uber.com/scaling-michelangelo/) with Michelangelo, and some ML organizational insights 
 
 ### 3. Tutorials
 
@@ -67,4 +71,5 @@ with [talos](https://github.com/autonomio/talos) by Mikko on Medium
 
 ### 10. Other resource lists
 
-* [awesome-nlp](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing (NLP) 
+* [awesome-nlp](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing (NLP)
+* [Data Science Process Management](https://github.com/jeongyoonlee/data-science-process-management?fbclid=IwAR3HrcOcEJM1QanthK7KZLKLSAqbwVMVf-DH2dAwsNaa5FLKtY0S_SE9Igk) Tips ;)
