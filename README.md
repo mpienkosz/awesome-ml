@@ -14,6 +14,7 @@ A casual list of sources for Machine Learning, NLP and software engineering for 
 * [MlFlow](https://github.com/mlflow/mlflow/) An open source platform for the machine learning lifecycle (focused on Model serving and management)
 * [Bighead](https://databricks.com/session/bighead-airbnbs-end-to-end-machine-learning-platform) Airbnb’s End-to-End Machine Learning Platform
 * [Clipper](http://clipper.ai/) ML-workflow platform, currently focused on low-latency prediction serving [video here](https://vimeo.com/274802895)
+* [StudioML] (https://github.com/studioml/studio) Model management framework with aim to simplify model building experience
 
 ### 2. Best Practices
 * [BOBP](https://gist.github.com/sloria/7001839): The Best of the Best Practices (BOBP) Guide for Python
@@ -38,7 +39,9 @@ with [talos](https://github.com/autonomio/talos) by Mikko on Medium
 ### 4.Libraries
  * [easy-tf-log](https://github.com/mrahtz/easy-tf-log) Simplifies logging in Tensorflow/Tensorboard
  * [Tune](https://ray.readthedocs.io/en/latest/tune.html) Scalable framework for hyperparameter search with a focus on deep learning
-
+ * [AdaNet] (https://github.com/tensorflow/adanet) A lightweight and scalable TensorFlow AutoML framework
+ * [TFMA](https://github.com/tensorflow/model-analysis) Model analysis tools for TensorFlow 
+ * [What-if-tool](https://pair-code.github.io/what-if-tool/) And interface for expanding understanding of classification or regression ML mode (Tensorflow)
 
 ### 5.Javascript
 
