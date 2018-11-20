@@ -39,7 +39,7 @@ with [talos](https://github.com/autonomio/talos) by Mikko on Medium
 ### 4.Libraries
  * [easy-tf-log](https://github.com/mrahtz/easy-tf-log) Simplifies logging in Tensorflow/Tensorboard
  * [Tune](https://ray.readthedocs.io/en/latest/tune.html) Scalable framework for hyperparameter search with a focus on deep learning
- * [AdaNet] (https://github.com/tensorflow/adanet) A lightweight and scalable TensorFlow AutoML framework
+ * [AdaNet](https://github.com/tensorflow/adanet) A lightweight and scalable TensorFlow AutoML framework
  * [TFMA](https://github.com/tensorflow/model-analysis) Model analysis tools for TensorFlow 
  * [What-if-tool](https://pair-code.github.io/what-if-tool/) And interface for expanding understanding of classification or regression ML mode (Tensorflow)
  * [TRFL](https://github.com/deepmind/trfl/blob/master/docs/index.md) Reinforcement Learning library based on Tensorflow
