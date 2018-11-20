@@ -63,6 +63,7 @@ with [talos](https://github.com/autonomio/talos) by Mikko on Medium
 * [Neural Nets for NLP](https://www.youtube.com/watch?v=Q3Y1t9-O3M0&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE) from CMU, only lecture slides
 * [ML with Tensorflow on GCP](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) at Coursera
 * [Fast AI course](http://course.fast.ai/) on Deep Learning
+* [OpenAI Spinning up](https://spinningup.openai.com/en/latest/user/introduction.html) Not really a course. Rather educational resource produced by OpenAI about Deep RL
 
 ### 8 Blogs
 
