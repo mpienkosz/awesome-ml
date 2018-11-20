@@ -42,6 +42,7 @@ with [talos](https://github.com/autonomio/talos) by Mikko on Medium
  * [AdaNet] (https://github.com/tensorflow/adanet) A lightweight and scalable TensorFlow AutoML framework
  * [TFMA](https://github.com/tensorflow/model-analysis) Model analysis tools for TensorFlow 
  * [What-if-tool](https://pair-code.github.io/what-if-tool/) And interface for expanding understanding of classification or regression ML mode (Tensorflow)
+ * [TRFL](https://github.com/deepmind/trfl/blob/master/docs/index.md) Reinforcement Learning library based on Tensorflow
 
 ### 5.Javascript
 
