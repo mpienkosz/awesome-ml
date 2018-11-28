@@ -14,7 +14,7 @@ A casual list of sources for Machine Learning, NLP and software engineering for 
 * [MlFlow](https://github.com/mlflow/mlflow/) An open source platform for the machine learning lifecycle (focused on Model serving and management)
 * [Bighead](https://databricks.com/session/bighead-airbnbs-end-to-end-machine-learning-platform) Airbnb’s End-to-End Machine Learning Platform
 * [Clipper](http://clipper.ai/) ML-workflow platform, currently focused on low-latency prediction serving [video here](https://vimeo.com/274802895)
-* [StudioML] (https://github.com/studioml/studio) Model management framework with aim to simplify model building experience
+* [StudioML](https://github.com/studioml/studio) Model management framework with aim to simplify model building experience
 
 ### 2. Best Practices
 * [BOBP](https://gist.github.com/sloria/7001839): The Best of the Best Practices (BOBP) Guide for Python
@@ -25,7 +25,9 @@ A casual list of sources for Machine Learning, NLP and software engineering for 
 * [Refactoring GURU](https://refactoring.guru/): Refactoring, Design Patterns, etc.
 * [Python Anti-patterns](https://docs.quantifiedcode.com/python-anti-patterns/correctness/index.html)
 * [Good logging practice in Python](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/): tips on using standard logging module
-* [Scaling Machine Learning at Uber](https://eng.uber.com/scaling-michelangelo/) with Michelangelo, and some ML organizational insights 
+* [Scaling Machine Learning at Uber](https://eng.uber.com/scaling-michelangelo/) with Michelangelo, and some ML organizational insights
+* [Writing Code for NLP Research](https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/) by AllenAI
+
 
 ### 3. Tutorials
 
