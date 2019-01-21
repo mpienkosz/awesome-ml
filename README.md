@@ -27,7 +27,7 @@ A casual list of sources for Machine Learning, NLP and software engineering for 
 * [Good logging practice in Python](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/): tips on using standard logging module
 * [Scaling Machine Learning at Uber](https://eng.uber.com/scaling-michelangelo/) with Michelangelo, and some ML organizational insights
 * [Writing Code for NLP Research](https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/) by AllenAI
-
+* [A Full Hardware Guide](timdettmers.com/2018/12/16/deep-learning-hardware-guide/) to Deep Learning
 
 ### 3. Tutorials
 
