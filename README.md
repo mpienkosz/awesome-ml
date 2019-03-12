@@ -38,6 +38,8 @@ A casual list of sources for Machine Learning, NLP and software engineering for 
 with [talos](https://github.com/autonomio/talos) by Mikko on Medium
 * [How to write simple Spelling Corrector](https://norvig.com/spell-correct.html) from Peter Norvig
 * [Kubernetes-GPU-Guide](https://github.com/Langhalsdino/Kubernetes-GPU-Guide) - how to set GPU-enabled cluster on multiple GPU machines
+* [Feature Selection with sklearn and Pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b) - Introduction to Feature Selection methods (Filter, Wrapper and embedded) and their implementation in Python
+* [Exploratory analysis in Pandas](https://medium.com/analytics-vidhya/machine-learning-to-predict-taxi-fare-part-one-exploratory-analysis-6b7e6b1fbc78) based on New York Taxi Fare Prediction problem on KAggle
 
 ### 4.Libraries
  * [easy-tf-log](https://github.com/mrahtz/easy-tf-log) Simplifies logging in Tensorflow/Tensorboard
@@ -47,6 +49,7 @@ with [talos](https://github.com/autonomio/talos) by Mikko on Medium
  * [What-if-tool](https://pair-code.github.io/what-if-tool/) And interface for expanding understanding of classification or regression ML mode (Tensorflow)
  * [TRFL](https://github.com/deepmind/trfl/blob/master/docs/index.md) Reinforcement Learning library based on Tensorflow
  * [pyLDAvis](https://github.com/bmabey/pyLDAvis) Python library for interactive topic model visualization
+ * [Uber's Ludvig](https://github.com/uber/ludwig) An extensible toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code (Infers appropriate model from data schema in Pandas)
 
 ### 5.Javascript
 
